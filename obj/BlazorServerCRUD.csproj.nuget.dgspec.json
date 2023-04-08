@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Source\\Repos\\realtor-data\\BlazorServerCRUD.csproj": {}
+    "C:\\Users\\300885056\\Downloads\\Prod\\realtor-data\\BlazorServerCRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\realtor-data\\BlazorServerCRUD.csproj": {
+    "C:\\Users\\300885056\\Downloads\\Prod\\realtor-data\\BlazorServerCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\realtor-data\\BlazorServerCRUD.csproj",
+        "projectUniqueName": "C:\\Users\\300885056\\Downloads\\Prod\\realtor-data\\BlazorServerCRUD.csproj",
         "projectName": "BlazorServerCRUD",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\realtor-data\\BlazorServerCRUD.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\realtor-data\\obj\\",
+        "projectPath": "C:\\Users\\300885056\\Downloads\\Prod\\realtor-data\\BlazorServerCRUD.csproj",
+        "packagesPath": "C:\\Users\\300885056\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\300885056\\Downloads\\Prod\\realtor-data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\300885056\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,8 +55,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -68,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     }
