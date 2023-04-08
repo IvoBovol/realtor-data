@@ -555,11 +555,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\300885056\\Downloads\\Realtor\\BlazorServerCRUD\\BlazorServerCRUD.csproj",
+      "projectUniqueName": "C:\\Users\\300885056\\Downloads\\Project\\realtor-data\\BlazorServerCRUD.csproj",
       "projectName": "BlazorServerCRUD",
-      "projectPath": "C:\\Users\\300885056\\Downloads\\Realtor\\BlazorServerCRUD\\BlazorServerCRUD.csproj",
+      "projectPath": "C:\\Users\\300885056\\Downloads\\Project\\realtor-data\\BlazorServerCRUD.csproj",
       "packagesPath": "C:\\Users\\300885056\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\300885056\\Downloads\\Realtor\\BlazorServerCRUD\\obj\\",
+      "outputPath": "C:\\Users\\300885056\\Downloads\\Project\\realtor-data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\300885056\\AppData\\Roaming\\NuGet\\NuGet.Config",

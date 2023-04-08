@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lt0GolG8gEj567QlEkV5ApWuw5aPxXKqxtAiCs/wq0TGabc0iitJn4ZhywbBM9BNo6Wq40KZn7RbNV1m1rkHow==",
+  "dgSpecHash": "vvYmPQiotPn+unqbAcKVZArETxE7KNo262Y3Sb5A/KJoS/bfkphTnZywfvxYmmNUknGSmdR0Jh2XX1W+ah/wGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\300885056\\Downloads\\Realtor\\BlazorServerCRUD\\BlazorServerCRUD.csproj",
+  "projectFilePath": "C:\\Users\\300885056\\Downloads\\Project\\realtor-data\\BlazorServerCRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\300885056\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
     "C:\\Users\\300885056\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.3\\microsoft.entityframeworkcore.abstractions.6.0.3.nupkg.sha512",
