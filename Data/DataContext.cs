@@ -1,5 +1,4 @@
-﻿///Hussein Abed Work
-
+﻿using BlazorServerCRUD.Pages;
 using Microsoft.EntityFrameworkCore;
 
 namespace BlazorServerCRUD.Data
@@ -43,8 +42,24 @@ namespace BlazorServerCRUD.Data
                         Year = new DateTime(2011, 12, 10)
                     }
                 );
+
+            base.OnModelCreating(modelBuilder);
+
+            
+            modelBuilder.Entity<Request>().HasKey(r => r.Id);
+        }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseInMemoryDatabase("MyInMemoryDatabase");
         }
 
         public DbSet<House> Houses => Set<House>();
+        public DbSet<Request> Requests { get; set; }
+
+        public async Task<int> SaveChangesAsync()
+        {
+            return await base.SaveChangesAsync();
+        }
     }
 }

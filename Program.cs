@@ -1,13 +1,15 @@
 using BlazorServerCRUD.Data;
-using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.EntityFrameworkCore;
+using MudBlazor.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
+builder.Services.AddMudServices();
+builder.Services.AddScoped<RequestService>();
 
 builder.Services.AddDbContext<DataContext>(options => options.UseInMemoryDatabase("houseedb"));
 builder.Services.AddScoped<IHouseService, HouseService>();
@@ -32,4 +34,3 @@ app.MapBlazorHub();
 app.MapFallbackToPage("/_Host");
 
 app.Run();
-
