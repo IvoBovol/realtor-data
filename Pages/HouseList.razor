@@ -1,0 +1,49 @@
+﻿@page "/houselist"
+@inject IHouseService HouseService
+@inject NavigationManager NavigationManager
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>City</th>
+            <th>Status</th>
+            <th>Year</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var House in HouseService.Houses)
+        {
+            <tr>
+                <td>@House.City</td>
+                <td>@House.Status</td>
+                <td>@House.Year?.ToShortDateString()</td>
+                <td>
+                    <button class="btn btn-primary"
+                        @onclick="(() => ShowHouse(House.Id))">
+                        <i class="oi oi-pencil"></i>
+                    </button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<button class="btn btn-primary" @onclick="CreateNewHouse">Create New Listing</button>
+
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        await HouseService.LoadHouse();
+    }
+
+    void ShowHouse(int id)
+    {
+        NavigationManager.NavigateTo($"houselistedit/{id}");
+    }
+
+    void CreateNewHouse()
+    {
+        NavigationManager.NavigateTo("houselistedit");
+    }
+}
