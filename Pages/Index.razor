@@ -2,13 +2,24 @@
 
 <style>
 body{
-    background-color: #B0BEC5;
+    background-color: rgb(151,141,236);
+  
+}
+.header {
+    text-align:center;  
+    color: white;  
+    font-family: Arial;
 }
 </style>
 
-<MudText Typo="Typo.h1" Align="Align.Center" Style="">Realtor Portal. Welcome</MudText>
+<MudText Typo="Typo.h1" Align="Align.Center" Class="header">Realtor Portal. Welcome</MudText>
 
 
 @code{
-
+       private List<BreadcrumbItem> _items = new List<BreadcrumbItem>
+    {
+        new BreadcrumbItem("Home", href: "#", icon: Icons.Material.Filled.Home),
+        new BreadcrumbItem("Videos", href: "/houselist", icon: Icons.Material.Filled.House),
+        new BreadcrumbItem("Create", href: null, disabled: true, icon: Icons.Material.Filled.Create)
+    };
 }
