@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Source\\Repos\\realtor-data\\BlazorServerCRUD.csproj": {}
+    "C:\\Users\\User\\source\\repos\\realtor-data\\BlazorServerCRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\realtor-data\\BlazorServerCRUD.csproj": {
+    "C:\\Users\\User\\source\\repos\\realtor-data\\BlazorServerCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\realtor-data\\BlazorServerCRUD.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\realtor-data\\BlazorServerCRUD.csproj",
         "projectName": "BlazorServerCRUD",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\realtor-data\\BlazorServerCRUD.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\realtor-data\\BlazorServerCRUD.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\realtor-data\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\realtor-data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

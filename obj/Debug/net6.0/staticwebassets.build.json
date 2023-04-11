@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "36XOm60RClC2IrxmYK70S69J+OTKMS4LgETilqvUQJE=",
+  "Hash": "Amzb7FC9nnA16x3t18vY/BV5ZBF7chv4dkn+lOk2ZEU=",
   "Source": "BlazorServerCRUD",
   "BasePath": "_content/BlazorServerCRUD",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "BlazorServerCRUD\\wwwroot",
       "Source": "BlazorServerCRUD",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\",
       "BasePath": "_content/BlazorServerCRUD",
       "Pattern": "**"
     }
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\mudblazor\\6.2.0\\staticwebassets\\MudBlazor.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\realtor-data\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorServerCRUD.styles.css",
+      "Identity": "C:\\Users\\User\\source\\repos\\realtor-data\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorServerCRUD.styles.css",
       "SourceId": "BlazorServerCRUD",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\realtor-data\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\realtor-data\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorServerCRUD",
       "RelativePath": "BlazorServerCRUD.styles.css",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\realtor-data\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorServerCRUD.styles.css"
+      "OriginalItemSpec": "C:\\Users\\User\\source\\repos\\realtor-data\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorServerCRUD.styles.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\realtor-data\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorServerCRUD.bundle.scp.css",
+      "Identity": "C:\\Users\\User\\source\\repos\\realtor-data\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorServerCRUD.bundle.scp.css",
       "SourceId": "BlazorServerCRUD",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\realtor-data\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\realtor-data\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorServerCRUD",
       "RelativePath": "BlazorServerCRUD.bundle.scp.css",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\realtor-data\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorServerCRUD.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\User\\source\\repos\\realtor-data\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorServerCRUD.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorServerCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\",
       "BasePath": "_content/BlazorServerCRUD",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorServerCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\",
       "BasePath": "_content/BlazorServerCRUD",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorServerCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\",
       "BasePath": "_content/BlazorServerCRUD",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazorServerCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\",
       "BasePath": "_content/BlazorServerCRUD",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazorServerCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\",
       "BasePath": "_content/BlazorServerCRUD",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazorServerCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\",
       "BasePath": "_content/BlazorServerCRUD",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazorServerCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\",
       "BasePath": "_content/BlazorServerCRUD",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazorServerCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\",
       "BasePath": "_content/BlazorServerCRUD",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazorServerCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\",
       "BasePath": "_content/BlazorServerCRUD",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazorServerCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\",
       "BasePath": "_content/BlazorServerCRUD",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazorServerCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\",
       "BasePath": "_content/BlazorServerCRUD",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\css\\site.css",
       "SourceId": "BlazorServerCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\",
       "BasePath": "_content/BlazorServerCRUD",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\favicon.ico",
       "SourceId": "BlazorServerCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\realtor-data\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\realtor-data\\wwwroot\\",
       "BasePath": "_content/BlazorServerCRUD",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
