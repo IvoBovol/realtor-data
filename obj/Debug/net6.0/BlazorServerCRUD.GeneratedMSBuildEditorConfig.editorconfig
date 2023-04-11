@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorServerCRUD
 build_property.RootNamespace = BlazorServerCRUD
-build_property.ProjectDir = C:\Users\300885056\Downloads\prod\realtor-data\
+build_property.ProjectDir = C:\Users\300885056\Documents\realtor-data\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\300885056\Downloads\prod\realtor-data
+build_property.MSBuildProjectDirectory = C:\Users\300885056\Documents\realtor-data
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/300885056/Downloads/prod/realtor-data/App.razor]
+[C:/Users/300885056/Documents/realtor-data/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/300885056/Downloads/prod/realtor-data/Pages/HouseList.razor]
+[C:/Users/300885056/Documents/realtor-data/Pages/HouseList.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG91c2VMaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/300885056/Downloads/prod/realtor-data/Pages/HouseListEdit.razor]
+[C:/Users/300885056/Documents/realtor-data/Pages/HouseListEdit.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG91c2VMaXN0RWRpdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/300885056/Downloads/prod/realtor-data/Pages/Index.razor]
+[C:/Users/300885056/Documents/realtor-data/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/300885056/Downloads/prod/realtor-data/Pages/Request.razor]
+[C:/Users/300885056/Documents/realtor-data/Pages/Request.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVxdWVzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/300885056/Downloads/prod/realtor-data/Shared/SurveyPrompt.razor]
+[C:/Users/300885056/Documents/realtor-data/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/300885056/Downloads/prod/realtor-data/_Imports.razor]
+[C:/Users/300885056/Documents/realtor-data/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/300885056/Downloads/prod/realtor-data/Shared/MainLayout.razor]
+[C:/Users/300885056/Documents/realtor-data/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-nsrxa1so92
 
-[C:/Users/300885056/Downloads/prod/realtor-data/Shared/NavMenu.razor]
+[C:/Users/300885056/Documents/realtor-data/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-fhkozl355x
 
-[C:/Users/300885056/Downloads/prod/realtor-data/Pages/Error.cshtml]
+[C:/Users/300885056/Documents/realtor-data/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/300885056/Downloads/prod/realtor-data/Pages/_Host.cshtml]
+[C:/Users/300885056/Documents/realtor-data/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/300885056/Downloads/prod/realtor-data/Pages/_Layout.cshtml]
+[C:/Users/300885056/Documents/realtor-data/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
