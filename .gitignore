@@ -1,7 +1,9 @@
-# Ignore any files in /bin and /obj Folders
-**/bin/*
-**/obj/*
-/.vs/BlazorServerCRUD/FileContentIndex/2e9bdc72-a967-4e9d-ac12-d3ff8c206735.vsidx
-*.vsidx
-.vs/
-bin/Debug/net6.0/
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/bin/Debug/net6.0
+/obj
+/bin/Release/net6.0
+/.vs/BlazorServerCRUD/v17

@@ -13,7 +13,7 @@
     <MudItem xs="12" sm="7">
         <MudPaper Class="pa-4">
             <MudForm @ref="mudForm" @bind-IsValid="@success" @bind-Errors="@errors">
-                <MudTextField T="int" Label="Id" Required="true" @bind-Value="Id" RequiredError="Id is required!" />
+                <MudTextField T="int" Label="Id" Required="true" @bind-Value="Id" RequiredError="Id is required" />
 
                 <MudTextField T="string" Label="Name" Required="true" @bind-Value="Name" RequiredError="Name is required!" />
                 <MudTextField T="string" Label="Email" Required="true" @bind-Value="Email" RequiredError="Email is required!" Validation="@(new EmailAddressAttribute() { ErrorMessage = "The email address is invalid" })" />
