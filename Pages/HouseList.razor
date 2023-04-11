@@ -1,6 +1,8 @@
 ﻿@page "/houselist"
 @inject IHouseService HouseService
 @inject NavigationManager NavigationManager
+@inject IDialogService DialogService
+
 
 
 <table class="table">
@@ -25,6 +27,12 @@
                         <i class="oi oi-pencil"></i>
                     </button>
                 </td>
+                <td>
+                    <button class="btn btn-primary"
+                        @onclick="(() => ShowUser())">
+                        <i class="oi oi-pencil"></i>
+                    </button>
+                </td>
             </tr>
         }
     </tbody>
@@ -42,8 +50,15 @@
         NavigationManager.NavigateTo($"houselistedit/{id}");
     }
 
+      void ShowUser()
+    {
+        NavigationManager.NavigateTo($"request");
+    }
+
     void CreateNewHouse()
     {
         NavigationManager.NavigateTo("houselistedit");
     }
+
+   
 }
