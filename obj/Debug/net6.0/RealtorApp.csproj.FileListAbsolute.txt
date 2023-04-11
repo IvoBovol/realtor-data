@@ -1,8 +1,0 @@
-C:\Users\Hussein\OneDrive\Documents\sim4\Sdp\BlazorServerCRUD-master\BlazorServerCRUD-master\BlazorServerCRUD\obj\Debug\net6.0\RealtorApp.csproj.AssemblyReference.cache
-C:\Users\Hussein\OneDrive\Documents\sim4\Sdp\BlazorServerCRUD-master\BlazorServerCRUD-master\BlazorServerCRUD\obj\Debug\net6.0\RealtorApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Hussein\OneDrive\Documents\sim4\Sdp\BlazorServerCRUD-master\BlazorServerCRUD-master\BlazorServerCRUD\obj\Debug\net6.0\RealtorApp.AssemblyInfoInputs.cache
-C:\Users\Hussein\OneDrive\Documents\sim4\Sdp\BlazorServerCRUD-master\BlazorServerCRUD-master\BlazorServerCRUD\obj\Debug\net6.0\RealtorApp.AssemblyInfo.cs
-C:\Users\Hussein\OneDrive\Documents\sim4\Sdp\BlazorServerCRUD-master\BlazorServerCRUD-master\BlazorServerCRUD\obj\Debug\net6.0\RealtorApp.csproj.CoreCompileInputs.cache
-C:\Users\Hussein\OneDrive\Documents\sim4\Sdp\BlazorServerCRUD-master\BlazorServerCRUD-master\BlazorServerCRUD\obj\Debug\net6.0\RealtorApp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Hussein\OneDrive\Documents\sim4\Sdp\BlazorServerCRUD-master\BlazorServerCRUD-master\BlazorServerCRUD\obj\Debug\net6.0\RealtorApp.RazorAssemblyInfo.cache
-C:\Users\Hussein\OneDrive\Documents\sim4\Sdp\BlazorServerCRUD-master\BlazorServerCRUD-master\BlazorServerCRUD\obj\Debug\net6.0\RealtorApp.RazorAssemblyInfo.cs
