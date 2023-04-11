@@ -7,3 +7,4 @@
 /obj
 /bin/Release/net6.0
 /.vs/BlazorServerCRUD/v17
+*.suo
