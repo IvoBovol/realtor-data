@@ -1,3 +1,5 @@
 # Ignore any files in /bin and /obj Folders
 **/bin/*
 **/obj/*
+/.vs/BlazorServerCRUD/FileContentIndex/2e9bdc72-a967-4e9d-ac12-d3ff8c206735.vsidx
+*.vsidx
